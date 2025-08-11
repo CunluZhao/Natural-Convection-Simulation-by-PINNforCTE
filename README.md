@@ -1,0 +1,1 @@
+This repository contains the source code for the natural convection simulation with PINNforCTE. Users can use these codes to reproduce the results in our paper titled "Modeling Natural Convection by Solving Conservative Transport Equations with Physics-Informed Neural Networks".
